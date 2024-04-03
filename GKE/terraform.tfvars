@@ -1,1 +1,0 @@
-machine_types = "n2-standard-2"
