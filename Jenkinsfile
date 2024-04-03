@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/your/repo.git' // Replace with your Git repository URL
+                git 'https://github.com/Saifzero7/Portfolio.git' // Replace with your Git repository URL
             }
         }
         
